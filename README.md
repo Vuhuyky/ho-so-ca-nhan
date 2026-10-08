@@ -1,5 +1,4 @@
-\# Hồ sơ cá nhân:
-
+<h1>Hồ sơ cá nhân của Nguyễn Văn A</h1>
 Đây là repository dùng để thực hành Git và Github.
 
 
