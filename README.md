@@ -22,3 +22,5 @@
 
 \-Pull
 
+Ghi chú thử nghiệm A
+Ghi chú thử nghiệm B
